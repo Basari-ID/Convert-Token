@@ -12,11 +12,16 @@ BLU = ('\x1b[0;36m')
 
 # Banner
 banner = (f"""                    {MERAH}({PUTIH}★ SELAMAT DATANG ★{MERAH}){PUTIH}
+
+
+
 {BLU}◢████◣░█████◣
 {BLU} ██░░░░░██░░█◤
 {BLU} ████◤░░█████◣  
 {BLU} ██░░░░░██░░██ 
 {BLU} █◤░░░░░█████◤
+
+
 {COKLAT} **********************************************************
 {PUTIH}                Author : Baz Hengker Tzy                                                 
 {PUTIH}                Github : https://github.com/Basari-ID              
