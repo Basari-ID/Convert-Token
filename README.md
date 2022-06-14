@@ -3,19 +3,19 @@ $ git clone https://github.com/Basari-ID/Convert-Token
 
 
 
-& ls
+$ ls
 
 
 
-$cd Convert-Token
-
-
-
-
-$git pull
+$ cd Convert-Token
 
 
 
 
-$python bas.py
+$ git pull
+
+
+
+
+$ python bas.py
 
